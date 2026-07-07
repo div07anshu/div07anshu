@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=BTech+Student;Software+Engineer;Full+Stack+Developer;Open+Source+Contributor"/>
 </p>
 
-## 2. Premium Badges
+## Badges
 
 ![](https://img.shields.io/badge/B.Tech-VLSI-blueviolet?style=for-the-badge)
 ![](https://img.shields.io/badge/Location-India-blue?style=for-the-badge)
@@ -24,6 +24,9 @@
 
 ## Backend
 ![](https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgres)
+
+## Tools
+![](https://skillicons.dev/icons?i=git,github,vscode,linux)
 
 # GenAI Expertise
 
@@ -71,61 +74,54 @@ An AI-powered movie recommendation system built using Retrieval-Augmented Genera
 
 | Recognition | Details |
 |---|---|
-| Hackathon | Winner |
-| DSA | 500+ Questions |
-| Open Source | Contributor |
+| DSA | 500+ Problems Solved |
+| Project | Built CineSage (RAG-based Movie Recommendation System) |
+| Learning | React, FastAPI, LangChain & Gemini |
 
 
 ## Coding Profiles
 
-- LeetCode
-- Codeforces
-- CodeChef
-- HackerRank
-- GeeksforGeeks
-
-# Premium GitHub README (Part 3)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/div07anshu/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/div07anshu)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/div07anshu)
 
 # GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=dummy&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=div07anshu&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=dummy&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=div07anshu&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dummy&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=div07anshu&layout=compact&theme=tokyonight)
 
-![](https://github-profile-trophy.vercel.app/?username=dummy&theme=tokyonight)
+![](https://github-profile-trophy.vercel.app/?username=div07anshu&theme=tokyonight)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=dummy&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=div07anshu&theme=tokyo-night)
 
+## Current Focus
 
-# Current Focus
+### Learning
+- System Design
+- AI Agents
 
-learning:
-  - System Design
-  - Kubernetes
-  - AI Agents
+### Building
+- CineSage
+- Portfolio Website
 
-building:
-  - SaaS
-  - AI Products
+### Exploring
+- LangGraph
+- Agentic AI
 
-exploring:
-  - Distributed Systems
-
-open_to:
-  - Internship
-  - Open Source
-
+### Open To
+- Software Engineering Internships
+- Open Source Contributions
 # Connect
-
-- Email
-- LinkedIn
-- GitHub
-- Portfolio
+- 📧 Email: divyanshu202507@email.com
+- 💼 LinkedIn: https://linkedin.com/in/div07anshu
+- 🌐 GitHub: https://github.com/div07anshu
+- 🌍 Portfolio: Coming Soon
 
 > "Build software that matters."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:6a11cb,100:2575fc"/>
+![Snake animation](https://raw.githubusercontent.com/div07anshu/div07anshu/output/github-contribution-grid-snake.svg)
 
 
