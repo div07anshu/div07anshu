@@ -1,6 +1,4 @@
 
-
-```html
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Dummy%20Developer&color=0:6a11cb,100:2575fc"/>
 </p>
@@ -8,23 +6,13 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;Open+Source+Contributor"/>
 </p>
-```
 
 ## 2. Premium Badges
 
-```md
 ![](https://img.shields.io/badge/B.Tech-CSE-blueviolet?style=for-the-badge)
 ![](https://img.shields.io/badge/Location-India-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge)
-```
 
----
-
-# About
-
-Dummy professional bio...
-
----
 
 # Tech Stack
 
@@ -290,7 +278,6 @@ Dummy Company
 
 # GitHub Analytics
 
-```md
 ![](https://github-readme-stats.vercel.app/api?username=dummy&show_icons=true&theme=tokyonight)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dummy&theme=tokyonight)
@@ -300,30 +287,23 @@ Dummy Company
 ![](https://github-profile-trophy.vercel.app/?username=dummy&theme=tokyonight)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=dummy&theme=tokyo-night)
-```
 
 # Snake
 
-```text
 .github/workflows/snake.yml
-```
 
 # WakaTime
 
-```md
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-```
 
 # Spotify
 
-```md
+
 ![Spotify](https://spotify-github-profile.vercel.app/api/view.svg)
-```
 
 # Current Focus
 
-```yaml
 learning:
   - System Design
   - Kubernetes
@@ -339,7 +319,6 @@ exploring:
 open_to:
   - Internship
   - Open Source
-```
 
 # Connect
 
@@ -350,8 +329,6 @@ open_to:
 
 > "Build software that matters."
 
-```html
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:6a11cb,100:2575fc"/>
-```
 
 
