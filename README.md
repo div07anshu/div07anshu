@@ -1,15 +1,15 @@
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Dummy%20Developer&color=0:6a11cb,100:2575fc"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Divyanshu%20Giri&color=0:6a11cb,100:2575fc"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=BTech+Student;Software+Engineer;Full+Stack+Developer;Open+Source+Contributor"/>
 </p>
 
 ## 2. Premium Badges
 
-![](https://img.shields.io/badge/B.Tech-CSE-blueviolet?style=for-the-badge)
+![](https://img.shields.io/badge/B.Tech-VLSI-blueviolet?style=for-the-badge)
 ![](https://img.shields.io/badge/Location-India-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge)
 
@@ -25,230 +25,47 @@
 ## Backend
 ![](https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgres)
 
-## DevOps
-![](https://skillicons.dev/icons?i=docker,git,github,linux,aws)
-
----
-
-# AI / ML Expertise
+# GenAI Expertise
 
 | Domain | Level | Notes |
 |---|---|---|
-| LLMs | Advanced | Dummy |
-| RAG | Advanced | Dummy |
-| Agents | Intermediate | Dummy |
-| Prompt Engineering | Advanced | Dummy |
-| Vector DB | Intermediate | Dummy |
-
----
+| LLMs | Intermediate | Gemini, Hugging Face |
+| RAG | Intermediate | Built CineSage |
+| AI Agents | Learning | LangGraph & Agentic AI |
+| Prompt Engineering | Intermediate | Structured prompts for LLMs |
+| Vector Database | Intermediate | FAISS |
+| Embeddings | Intermediate | Sentence Transformers |
+| LangChain | Intermediate | Chains, Retrieval & Pipelines |
 
 # Featured Projects
 
-
 <details>
-<summary><b>Project 1</b></summary>
+<summary><b>CineSage - AI Movie Recommendation System</b></summary>
 
 | Item | Value |
 |---|---|
-| Stack | React, FastAPI |
-| Scale | Enterprise |
-| Performance | High |
-| Security | OAuth + JWT |
-| Repository | github.com/dummy/project1 |
+| Stack | React, FastAPI, Python |
+| AI | Gemini, LangChain |
+| Database | FAISS Vector Store |
+| Embeddings | sentence-transformers/all-MiniLM-L6-v2 |
+| Repository | https://github.com/div07anshu/CineSage |
 
 ### Description
 
-Dummy project description.
+An AI-powered movie recommendation system built using Retrieval-Augmented Generation (RAG). It retrieves relevant movie information using semantic search and generates personalized recommendations with Google's Gemini model.
 
 ### Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- AI-powered movie recommendations
+- Retrieval-Augmented Generation (RAG)
+- Semantic search using FAISS
+- LangChain-based retrieval pipeline
+- Gemini API integration
+- Modern React frontend
+- FastAPI backend
+- Rich movie metadata and recommendations
 
 </details>
-
-
-<details>
-<summary><b>Project 2</b></summary>
-
-| Item | Value |
-|---|---|
-| Stack | React, FastAPI |
-| Scale | Enterprise |
-| Performance | High |
-| Security | OAuth + JWT |
-| Repository | github.com/dummy/project2 |
-
-### Description
-
-Dummy project description.
-
-### Features
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-</details>
-
-
-<details>
-<summary><b>Project 3</b></summary>
-
-| Item | Value |
-|---|---|
-| Stack | React, FastAPI |
-| Scale | Enterprise |
-| Performance | High |
-| Security | OAuth + JWT |
-| Repository | github.com/dummy/project3 |
-
-### Description
-
-Dummy project description.
-
-### Features
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-</details>
-
-
-<details>
-<summary><b>Project 4</b></summary>
-
-| Item | Value |
-|---|---|
-| Stack | React, FastAPI |
-| Scale | Enterprise |
-| Performance | High |
-| Security | OAuth + JWT |
-| Repository | github.com/dummy/project4 |
-
-### Description
-
-Dummy project description.
-
-### Features
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-</details>
-
-
-<details>
-<summary><b>Project 5</b></summary>
-
-| Item | Value |
-|---|---|
-| Stack | React, FastAPI |
-| Scale | Enterprise |
-| Performance | High |
-| Security | OAuth + JWT |
-| Repository | github.com/dummy/project5 |
-
-### Description
-
-Dummy project description.
-
-### Features
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-</details>
-
-# Premium GitHub README (Part 2)
-
-# More Projects
-
-
-<details>
-<summary><b>Project 6</b></summary>
-
-Enterprise-grade project.
-
-- Microservices
-- Docker
-- CI/CD
-- Monitoring
-- Documentation
-
-</details>
-
-
-<details>
-<summary><b>Project 7</b></summary>
-
-Enterprise-grade project.
-
-- Microservices
-- Docker
-- CI/CD
-- Monitoring
-- Documentation
-
-</details>
-
-
-<details>
-<summary><b>Project 8</b></summary>
-
-Enterprise-grade project.
-
-- Microservices
-- Docker
-- CI/CD
-- Monitoring
-- Documentation
-
-</details>
-
-
-<details>
-<summary><b>Project 9</b></summary>
-
-Enterprise-grade project.
-
-- Microservices
-- Docker
-- CI/CD
-- Monitoring
-- Documentation
-
-</details>
-
-
-<details>
-<summary><b>Project 10</b></summary>
-
-Enterprise-grade project.
-
-- Microservices
-- Docker
-- CI/CD
-- Monitoring
-- Documentation
-
-</details>
-
-
----
-
-# Experience
-
-## Software Engineer
-Dummy Company
-
-- Built scalable APIs
-- Improved latency
-- Cloud deployments
 
 ## Achievements
 
@@ -258,13 +75,6 @@ Dummy Company
 | DSA | 500+ Questions |
 | Open Source | Contributor |
 
-## Certifications
-
-- AWS
-- Cisco
-- Oracle
-- NPTEL
-- Google
 
 ## Coding Profiles
 
@@ -288,19 +98,6 @@ Dummy Company
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=dummy&theme=tokyo-night)
 
-# Snake
-
-.github/workflows/snake.yml
-
-# WakaTime
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-# Spotify
-
-
-![Spotify](https://spotify-github-profile.vercel.app/api/view.svg)
 
 # Current Focus
 
