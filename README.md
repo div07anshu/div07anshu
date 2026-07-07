@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Divyanshu Giri</h1>
+<h1 align="center">Hi 👋, I'm Divyanshu</h1>
 
 <h3 align="center">
 Full Stack Developer • GenAI Developer • DSA Enthusiast
