@@ -176,3 +176,182 @@ Dummy project description.
 
 </details>
 
+# Premium GitHub README (Part 2)
+
+# More Projects
+
+
+<details>
+<summary><b>Project 6</b></summary>
+
+Enterprise-grade project.
+
+- Microservices
+- Docker
+- CI/CD
+- Monitoring
+- Documentation
+
+</details>
+
+
+<details>
+<summary><b>Project 7</b></summary>
+
+Enterprise-grade project.
+
+- Microservices
+- Docker
+- CI/CD
+- Monitoring
+- Documentation
+
+</details>
+
+
+<details>
+<summary><b>Project 8</b></summary>
+
+Enterprise-grade project.
+
+- Microservices
+- Docker
+- CI/CD
+- Monitoring
+- Documentation
+
+</details>
+
+
+<details>
+<summary><b>Project 9</b></summary>
+
+Enterprise-grade project.
+
+- Microservices
+- Docker
+- CI/CD
+- Monitoring
+- Documentation
+
+</details>
+
+
+<details>
+<summary><b>Project 10</b></summary>
+
+Enterprise-grade project.
+
+- Microservices
+- Docker
+- CI/CD
+- Monitoring
+- Documentation
+
+</details>
+
+
+---
+
+# Experience
+
+## Software Engineer
+Dummy Company
+
+- Built scalable APIs
+- Improved latency
+- Cloud deployments
+
+## Achievements
+
+| Recognition | Details |
+|---|---|
+| Hackathon | Winner |
+| DSA | 500+ Questions |
+| Open Source | Contributor |
+
+## Certifications
+
+- AWS
+- Cisco
+- Oracle
+- NPTEL
+- Google
+
+## Coding Profiles
+
+- LeetCode
+- Codeforces
+- CodeChef
+- HackerRank
+- GeeksforGeeks
+
+# Premium GitHub README (Part 3)
+
+# GitHub Analytics
+
+```md
+![](https://github-readme-stats.vercel.app/api?username=dummy&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=dummy&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dummy&layout=compact&theme=tokyonight)
+
+![](https://github-profile-trophy.vercel.app/?username=dummy&theme=tokyonight)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=dummy&theme=tokyo-night)
+```
+
+# Snake
+
+```text
+.github/workflows/snake.yml
+```
+
+# WakaTime
+
+```md
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+```
+
+# Spotify
+
+```md
+![Spotify](https://spotify-github-profile.vercel.app/api/view.svg)
+```
+
+# Current Focus
+
+```yaml
+learning:
+  - System Design
+  - Kubernetes
+  - AI Agents
+
+building:
+  - SaaS
+  - AI Products
+
+exploring:
+  - Distributed Systems
+
+open_to:
+  - Internship
+  - Open Source
+```
+
+# Connect
+
+- Email
+- LinkedIn
+- GitHub
+- Portfolio
+
+> "Build software that matters."
+
+```html
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:6a11cb,100:2575fc"/>
+```
+
+
